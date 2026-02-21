@@ -1,2 +1,2 @@
 # WEBIRO Redeisgn Webiste
-Astro + Svelte ✌🏽
+Astro + Svelte + ✌🏽

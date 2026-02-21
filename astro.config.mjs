@@ -7,3 +7,4 @@ export default defineConfig({
   site: 'https://webiro.github.io',
   base: '/webiro-redesign',
 });
+
