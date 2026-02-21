@@ -1,3 +1,14 @@
+/* global.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* فونت اختصاصی */
+/* @font-face {
+  font-family: 'MyFont';
+  src: url('/fonts/MyFont.woff2') format('woff2');
+} */
+
 :root {
   --primary: #1e40af;
   --text: #111827;
